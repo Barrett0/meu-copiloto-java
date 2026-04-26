@@ -20,7 +20,7 @@ Este projeto contém um conjunto de prompts organizados para simular um copiloto
 - Spring Boot
 - Maven
 - JUnit
-- MySQL
+- PostgreSQL
 
 ---
 
